@@ -4,6 +4,7 @@
   "main": "src/main.ts",
   "license": "UNLICENSED",
   "scripts": {
+    "build": "tsc",
     "start": "ts-node src/main.ts",
     "dev": "nodemon src/main.ts"
   },
